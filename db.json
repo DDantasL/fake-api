@@ -1,0 +1,1631 @@
+{
+	"idCar": 2,
+	"statusCar": "Disponível",
+	"shelfs": [
+		{
+			"idShelfs": 1,
+			"positions": [
+				{
+					"idPosition": 1,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 2,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 3,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 4,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 5,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 6,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 7,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 8,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 9,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 10,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 11,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 12,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 13,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 14,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 15,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 16,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 17,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 18,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 19,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 20,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 21,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 22,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 23,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 24,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 25,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 26,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 27,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 28,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 29,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 30,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 31,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 32,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 33,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 34,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 35,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 36,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 37,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 38,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 39,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 40,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 41,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 42,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 43,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 44,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 45,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 46,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 47,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 48,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 49,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 50,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 51,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 52,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 53,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 54,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 55,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 56,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 57,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 58,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 59,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 60,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 61,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 62,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 63,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 64,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 65,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 66,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 67,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 68,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 69,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 70,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 71,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 72,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 73,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 74,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 75,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 76,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 77,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 78,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 79,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 80,
+					"statusLed": 1
+				}
+			]
+		},
+		{
+			"idShelfs": 2,
+			"positions": [
+				{
+					"idPosition": 1,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 2,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 3,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 4,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 5,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 6,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 7,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 8,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 9,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 10,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 11,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 12,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 13,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 14,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 15,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 16,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 17,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 18,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 19,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 20,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 21,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 22,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 23,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 24,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 25,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 26,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 27,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 28,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 29,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 30,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 31,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 32,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 33,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 34,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 35,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 36,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 37,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 38,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 39,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 40,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 41,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 42,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 43,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 44,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 45,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 46,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 47,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 48,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 49,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 50,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 51,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 52,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 53,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 54,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 55,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 56,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 57,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 58,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 59,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 60,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 61,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 62,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 63,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 64,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 65,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 66,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 67,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 68,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 69,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 70,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 71,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 72,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 73,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 74,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 75,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 76,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 77,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 78,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 79,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 80,
+					"statusLed": 1
+				}
+			]
+		},
+		{
+			"idShelfs": 3,
+			"positions": [
+				{
+					"idPosition": 1,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 2,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 3,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 4,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 5,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 6,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 7,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 8,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 9,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 10,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 11,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 12,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 13,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 14,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 15,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 16,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 17,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 18,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 19,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 20,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 21,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 22,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 23,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 24,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 25,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 26,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 27,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 28,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 29,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 30,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 31,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 32,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 33,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 34,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 35,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 36,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 37,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 38,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 39,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 40,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 41,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 42,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 43,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 44,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 45,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 46,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 47,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 48,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 49,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 50,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 51,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 52,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 53,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 54,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 55,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 56,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 57,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 58,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 59,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 60,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 61,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 62,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 63,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 64,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 65,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 66,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 67,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 68,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 69,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 70,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 71,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 72,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 73,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 74,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 75,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 76,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 77,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 78,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 79,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 80,
+					"statusLed": 1
+				}
+			]
+		},
+		{
+			"idShelfs": 4,
+			"positions": [
+				{
+					"idPosition": 1,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 2,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 3,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 4,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 5,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 6,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 7,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 8,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 9,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 10,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 11,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 12,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 13,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 14,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 15,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 16,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 17,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 18,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 19,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 20,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 21,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 22,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 23,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 24,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 25,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 26,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 27,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 28,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 29,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 30,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 31,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 32,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 33,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 34,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 35,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 36,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 37,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 38,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 39,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 40,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 41,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 42,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 43,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 44,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 45,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 46,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 47,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 48,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 49,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 50,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 51,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 52,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 53,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 54,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 55,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 56,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 57,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 58,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 59,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 60,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 61,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 62,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 63,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 64,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 65,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 66,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 67,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 68,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 69,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 70,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 71,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 72,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 73,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 74,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 75,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 76,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 77,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 78,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 79,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 80,
+					"statusLed": 1
+				}
+			]
+		},
+		{
+			"idShelfs": 5,
+			"positions": [
+				{
+					"idPosition": 1,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 2,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 3,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 4,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 5,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 6,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 7,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 8,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 9,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 10,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 11,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 12,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 13,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 14,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 15,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 16,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 17,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 18,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 19,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 20,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 21,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 22,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 23,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 24,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 25,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 26,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 27,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 28,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 29,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 30,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 31,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 32,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 33,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 34,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 35,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 36,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 37,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 38,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 39,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 40,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 41,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 42,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 43,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 44,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 45,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 46,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 47,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 48,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 49,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 50,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 51,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 52,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 53,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 54,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 55,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 56,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 57,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 58,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 59,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 60,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 61,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 62,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 63,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 64,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 65,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 66,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 67,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 68,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 69,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 70,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 71,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 72,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 73,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 74,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 75,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 76,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 77,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 78,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 79,
+					"statusLed": 1
+				},
+				{
+					"idPosition": 80,
+					"statusLed": 1
+				}
+			]
+		}
+	]
+}
